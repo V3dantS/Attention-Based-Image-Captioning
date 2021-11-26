@@ -1,6 +1,8 @@
 # Attention-Based-Image-Captioning
 CS725 Project for group:
-Vedant Singh (213050038)
-Sourabh Patidar (213050055)
-Ajinkya Tanksale (213050034)
-Arnav Aviraj Mishra (213059002)
+<ul>
+  <li>Vedant Singh (213050038) </li>
+<li>Sourabh Patidar (213050055) </li>
+<li>Ajinkya Tanksale (213050034) </li>
+<li>Arnav Aviraj Mishra (213059002) </li>
+</ul>
